@@ -14,3 +14,8 @@ git push in <branchname>
 git fetch (TO UPDATE CODE)
 
 Doing Changes To My Code
+
+Cloning Repo
+git clone <repo-url> -b <branch-name> <folder-name>
+git add -A (A is used fopr all)
+git rebase -i HEAD~jitani comits dehkhane hai uatna number (ctrl+o,enter,ctrl+x)
