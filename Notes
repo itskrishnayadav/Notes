@@ -1,0 +1,16 @@
+How to tell git who you are?
+git config --gloal user.name "<username>"
+git config --global user.email "<email-id>"
+
+
+Uploading My Code To Github (Empty Repo):
+git init
+git add (file name_)
+git commit -m "Added file name (kuch bhe likh sakte ho)
+git remote add in <repo Link>
+git checkout -b <branch name> (b use for create a new branch.open existing branch)
+git status
+git push in <branchname>
+git fetch (TO UPDATE CODE)
+
+Doing Changes To My Code
